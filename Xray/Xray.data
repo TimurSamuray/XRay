@@ -1,0 +1,4 @@
+classes= 8
+train = Xray/train.txt
+names = Xray/Xray.names
+backup = backup/

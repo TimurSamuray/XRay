@@ -1,0 +1,1 @@
+darknet.exe detector batch Xray/Xray.data Xray/Xray.cfg Xray/Xray_final.weights io_folder work/input/ work/output/ -out work/output/result.json -dont_show  -ext_output > work/output/result.txt
